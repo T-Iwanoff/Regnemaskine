@@ -42,6 +42,7 @@ public class Regnemaskine
 			{
 				repeat = false;
 				System.out.println("Goodbye.");
+				System.out.println("Hej hej");
 			}
 		}
 	}
