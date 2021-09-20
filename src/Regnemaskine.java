@@ -48,6 +48,6 @@ public class Regnemaskine
 
 	public static void hej()
 	{
-		System.out.println("hej2");
+		System.out.println("hej1");
 	}
 }
